@@ -1,24 +1,10 @@
 # vue-component-test-example
 
-## Project setup
-```
-npm install
-```
+Testing newly scaffolded Vue application with [Cypress][cypress] + [cypress-vue-unit-test](https://github.com/bahmutov/cypress-vue-unit-test) combo.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Testing](images/update-test.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+See component tests in [tests/components](tests/components) folder.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[cypress]: https://www.cypress.io
+[cypress-vue-unit-test]: https://github.com/bahmutov/cypress-vue-unit-test
