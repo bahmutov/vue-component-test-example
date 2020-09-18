@@ -22,7 +22,7 @@
     "cypress-vue-unit-test": "3.5.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-cli-plugin-cypress-experimental": "1.1.0",
+    "vue-cli-plugin-cypress-experimental": "1.2.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
