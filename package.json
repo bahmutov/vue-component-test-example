@@ -18,7 +18,7 @@
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
     "babel-eslint": "^10.1.0",
-    "cypress": "4.12.1",
+    "cypress": "13.7.1",
     "cypress-vue-unit-test": "3.5.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
